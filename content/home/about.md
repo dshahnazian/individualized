@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Health Sciences",
+    "Neuroscience",
+    "Statistics"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -35,6 +35,4 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Danesh Shahnazian is a post-doctoral fellow at the institute on aging and lifelong health (IALH), University of Victoria. He obtained his doctorate from the University of Victoria in 2017 in Psychology. His research interest spans lifelong health, brain imaging and statitics. Currently, he is working on making scientific research data from the IALH accessible on the world wide web.
